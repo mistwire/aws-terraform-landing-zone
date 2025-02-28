@@ -1,0 +1,5 @@
+bucket         = "wn-sandbox-terraform-state"
+key            = "sandbox/landing-zone/terraform.tfstate"
+region         = "us-west-2"
+dynamodb_table = "landing-zone-terraform-state-lock"
+encrypt        = true
