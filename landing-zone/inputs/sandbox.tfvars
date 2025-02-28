@@ -1,7 +1,7 @@
 environment                         = "sandbox"
 project_name                        = "landing-zone"
 budget_name                         = "Sandbox Monthly Budget"
-budget_amount                       = 8
+budget_amount                       = 5
 budget_time_unit                    = "MONTHLY"
 budget_notification_email           = "aws-alerts@example.com"
 budget_threshold                    = 100
