@@ -1,7 +1,4 @@
-[YouTube Video for this repo](https://www.youtube.com/watch?v=PASG0NTKUQA&t=1983s)
-
-
-# Terraform AWS Infrastructure Module 🚀
+# [Terraform AWS Infrastructure Module](https://www.youtube.com/watch?v=PASG0NTKUQA&t) 🚀
 
 This Terraform module sets up and manages various AWS resources for a sandbox environment. Below is a description of the resources being created and managed by this module.
 
